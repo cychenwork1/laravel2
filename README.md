@@ -16,6 +16,7 @@ https://tea.cychenwork1.free.nf/product/list/2 商品頁面
 
 
 後端管理系統
+https://tea.cychenwork1.free.nf/admin/home
 
 ![image](https://github.com/cychenwork1/laravel2/blob/main/image/a1.png)
 
