@@ -1,4 +1,5 @@
 在本機上使用wamp server架設本機mysql資料庫與apache http server環境 此為遷移至雲端空間的案例
+使用AdminLTE-3.2.0架設後端管理頁面
 
 ## 前端畫面
 
