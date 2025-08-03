@@ -1,3 +1,5 @@
+使用wamp server架設本機mysql資料庫與apache http server環境
+
 ## 前端畫面
 
 https://tea.cychenwork1.free.nf/about 顯示畫面
